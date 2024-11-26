@@ -1,7 +1,9 @@
-# To install
+### To install
+```
+pip install -r requirements.txt
+```
 
-## pip install -r requirements.txt
-
-# To open
-
-# python main.py
+### To open
+```
+python main.py
+```
